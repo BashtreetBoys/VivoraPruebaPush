@@ -9,7 +9,6 @@ public class Arena {
 	private Fruta frutaActual;
 	private int lv;
 	private int cantidadFrutas;
-
 	public int getLv() {
 		return lv;
 	}
